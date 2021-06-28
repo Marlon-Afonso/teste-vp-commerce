@@ -1,0 +1,8 @@
+{
+  "name": "teste vp commerce",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "70ff3b53"
+}
